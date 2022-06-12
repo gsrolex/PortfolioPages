@@ -47,7 +47,7 @@ export default function Home() {
               height={1315}
               contentTitle="JsFrameworksCA"
               contentText="This website was a school project where we focused on showing our skilles when it comes to API calls and wordpress login using JWT token"
-              hrfeButtonOne="https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-gsrolex/tree/main/js_ca"
+              hrfeButtonOne="https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-gsrolex"
               hrfeButtonTwo="https://jsframeworksca.netlify.app/"
               buttonOne="Github"
               buttonTwo="jsframeworksca.netlify.app"
