@@ -23,7 +23,7 @@ This is a simple website that shows off my recent Projects
 1. Clone the repo:
 
 ```bash
-gh repo clone Noroff-FEU-Assignments/js-frameworks-course-assignment-gsrolex
+gh repo clone gsrolex/PortfolioPages
 ```
 
 2. Install the dependencies:
